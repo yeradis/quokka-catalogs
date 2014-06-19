@@ -1,4 +1,4 @@
 quokka-catalogs
 ===============
 
-Catalogs modules for Quokka - Python
+Catalogs module for Quokka - Python
